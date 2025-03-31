@@ -3,5 +3,5 @@ Nome: Guilherme Fabiano Terra da Silva
 📞 (12) 99203-5113
 📧 guilhermeterra391@gmail.com
 
-Caso tenha interesse na Documentação, subirei ela em breve no github:
+Caso tenha interesse no passo a passo, olhe o meu github:
 Link do Repositorio: https://github.com/guifterra/IntuitiveCareTest/tree/main

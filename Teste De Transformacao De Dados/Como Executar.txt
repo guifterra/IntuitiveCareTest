@@ -1,0 +1,13 @@
+Nome: Guilherme Fabiano Terra da Silva
+📧 guilhermeterra391@gmail.com
+
+1. Instale o Maven (Caso não o tenha instalado)
+
+2. Entre na pasta do projeto (Teste de Transformação de Dados) pelo cmd
+
+3. Execute o comando: mvn clean install
+- Instalação de dependências
+
+4. Execute o comando: mvn exec:java
+- Execução do projeto
+- Exibição do csv e zip na raiz do projeto

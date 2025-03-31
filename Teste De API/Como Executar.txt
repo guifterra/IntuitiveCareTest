@@ -1,0 +1,25 @@
+Nome: Guilherme Fabiano Terra da Silva
+📧 guilhermeterra391@gmail.com
+
+1. Instale o Python e o node.js (Caso não o tenha instalado)
+
+2. Entre na pasta do projeto (Teste De API) com o cmd
+
+3. Entre na pasta do servidor
+- cd servidor
+
+4. Execute o comando: python server.py
+- O servidor vai ficar na porta: http://127.0.0.1:5000
+
+5. Entre na pasta do projeto
+- cd projeto
+
+6. Execute o comando: npm i
+
+7. Execute o comando: npm run serve
+- O projeto vue vai ficar na porta: http://localhost:8080/
+
++ Possíveis Erros
+- Caso tenha problemas de CORS ou requisição, execute os seguintes comandos
+Em projeto: npm install axios
+Em servidor: pip install flask-cors

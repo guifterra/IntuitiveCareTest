@@ -1,0 +1,7 @@
+Nome: Guilherme Fabiano Terra da Silva
+📧 guilhermeterra391@gmail.com
+
+1.1. Clicar no Executar que ele executará o Java
+
+1.2. Abrir o cmd na pasta e inserir o comando:
+java -cp "bin/jsoup-1.19.1.jar;bin/MeuPrograma.jar" WebScraper

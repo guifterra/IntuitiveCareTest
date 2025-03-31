@@ -1,0 +1,19 @@
+Nome: Guilherme Fabiano Terra da Silva
+📧 guilhermeterra391@gmail.com
+
+1. Vá na pasta Teste De banco De Dados
+
+2. Descompactar os arquivos.rar
+
+3. Abra os Script's no MySQL WorkBench
+
+4. Abra os Script's da pasta
+- 01-CriaTabelas
+- 02-ImportaConteudo
+- 03-QueryAnalitica
+
+5. Atualize o Path do carregamento de dados dos csv's
+
+6. Execute os Scripts em sequencia
+
+OBS: O Script.sql é a junção dos outros 3 scripts
