@@ -1,0 +1,3 @@
+Main-Class: WebScraper
+Class-Path: jsoup-1.19.1.jar
+

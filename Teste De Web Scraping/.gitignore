@@ -1,0 +1,6 @@
+# Ignorar arquivos compilados
+*.class
+
+# Ignorar PDFs e arquivos compactados
+*.pdf
+*.zip
